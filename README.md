@@ -1,0 +1,1 @@
+A GraphQL project to create BookList. I am using MongoDB as my database.
